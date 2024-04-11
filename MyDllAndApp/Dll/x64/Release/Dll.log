@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library C:\Program Files (x86)\MyDllAndApp\x64\Release\Dll.lib and object C:\Program Files (x86)\MyDllAndApp\x64\Release\Dll.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dll.vcxproj -> C:\Program Files (x86)\MyDllAndApp\x64\Release\Dll.dll
